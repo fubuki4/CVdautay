@@ -1,0 +1,32 @@
+:root
+{
+    --font-size: 25px;
+}
+html{
+    
+    background-image: url(https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/280200324_3261542860760490_3982768139390775865_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=OekxKFQQB0UAX_TDlri&_nc_ht=scontent.fsgn2-5.fna&oh=00_AfCQrTUtVTCzlqdAv9NENFpt-c3_0VjxtrL5vk0Y6Rc3Rw&oe=636353E3);
+    background-size: 50%;
+    background-position: top right 450px;
+    background-repeat: no-repeat;
+}
+#main{
+    
+    font-size: large;
+}
+    .sup{
+        margin-left: 30px;
+        font-size: var(--font-size); 
+    }
+    .sup2 ul{
+        margin-left: 30px;
+        font-size: var(--font-size);
+    }
+    p{
+        margin-left: 30px;
+        font-size: var(--font-size);
+    }
+    .sup3 ul{
+        margin-left: 30px;
+        font-size: var(--font-size);
+    }
+
